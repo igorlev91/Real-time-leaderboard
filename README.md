@@ -30,7 +30,7 @@ https://roadmap.sh/projects/realtime-leaderboard-system
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AhmedHossam777/real-time-leaderboard
+    git clone https://github.com/igorlev91/Real-time-leaderboard
     ```
 2. Navigate to the project directory:
     ```bash
